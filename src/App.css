@@ -1,0 +1,36 @@
+.App {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex !important;
+}
+
+.flex-align {
+    display: flex !important;
+    align-items: center;
+}
+
+.flex-justify {
+    display: flex !important;
+    justify-content: center;
+}
+
+.flex-complete {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-between {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-around {
+    display: flex !important;
+    justify-content: space-around;
+    align-items: center;
+}
